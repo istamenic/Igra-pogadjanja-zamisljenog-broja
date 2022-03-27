@@ -1,1 +1,2 @@
-ConsoleApp7
+Igra pogadjanja zamisljenog broja.
+Napravljeno kao Console app.
